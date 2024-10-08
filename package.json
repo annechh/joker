@@ -1,0 +1,20 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "Application tells jokes",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annechh/joker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annechh/joker/issues"
+  },
+  "homepage": "https://github.com/annechh/joker#readme"
+}
